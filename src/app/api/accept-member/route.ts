@@ -40,7 +40,7 @@ export async function POST(req: NextRequest) {
       <h3>Your Login Credentials:</h3>
       <p><strong>Email:</strong> ${email}</p>
       <p><strong>Password:</strong> ${student_id}</p>
-      <p><strong>Download the app:</strong> <a href="your-app-link-here">Click here</a></p>
+      <p><strong>Download the app:</strong> <a href="https://expo.dev/accounts/aceanomaly/projects/f1appv2/builds/f967572b-c5c0-4892-8457-0f8c8c271293">Click here</a></p>
       <br/>
       <p>Please change your password after your first login!</p>
       <p>Welcome aboard! 🚀</p>
